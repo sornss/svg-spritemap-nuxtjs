@@ -1,0 +1,19 @@
+{
+  "name": "svg-spritemap-nuxtjs",
+  "version": "1.0.0",
+  "description": "A try of the svg-spritemap-webpack-plugin on nuxtjs",
+  "author": "Sornss",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "svg-spritemap-webpack-plugin": "^3.5.3"
+  }
+}
